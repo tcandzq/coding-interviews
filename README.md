@@ -1,4 +1,5 @@
 # coding-interviews
-《剑指Offer》第2版源代码 C++版本
+《剑指Offer》第2版 C++代码 
 
-## [003-数组中的重复数字](003-数组中的重复数字/)
+## [03_01数组中的重复数字](03_01_DuplicationInArray/)
+## [03_02不修改数组找出重复的数字](03_02_DuplicationInArrayNoEdit/)
