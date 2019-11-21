@@ -8,3 +8,4 @@
 ## [06从尾到头打印链表](06_PrintListInReversedOrder/)
 ## [25合并两个排序的链表](25_MergeSortedLists/)
 ## [41数据流中的中位数](41_StreamMedian/)
+## [52两个链表的第一个公共结点](52_FirstCommonNodesInLists/)
