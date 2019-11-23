@@ -7,6 +7,7 @@
 ## [05替换空格](04_FindInPartiallySortedMatrix/)
 ## [06从尾到头打印链表](06_PrintListInReversedOrder/)
 ## [18_01删除链表的结点](18_01_DeleteDuplicatedNode/)
+## [18_02删删除链表中重复的结点](18_02_DeleteDuplicatedNode/)
 ## [23链表中环的入口节点](23_EntryNodeInListLoop/)
 ## [25合并两个排序的链表](25_MergeSortedLists/)
 ## [27二叉树的镜像](27_MirrorOfBinaryTree/)
