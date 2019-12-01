@@ -6,6 +6,7 @@
 ## [04二维数组中的查找](04_FindInPartiallySortedMatrix/)
 ## [05替换空格](04_FindInPartiallySortedMatrix/)
 ## [06从尾到头打印链表](06_PrintListInReversedOrder/)
+## [07重建二叉树](06_PrintListInReversedOrder/)
 ## [18_01删除链表的结点](18_01_DeleteDuplicatedNode/)
 ## [18_02删除链表中重复的结点](18_02_DeleteDuplicatedNode/)
 ## [23链表中环的入口节点](23_EntryNodeInListLoop/)

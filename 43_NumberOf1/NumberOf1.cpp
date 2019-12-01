@@ -28,13 +28,14 @@ public:
         {
             digit[++len] = n % 10;
             n /= 10;
+            cout << n << endl;
         }
         cout << len <<endl;
         memo.assign(len,vector<int>(len+1,-1));
-    
+        
         return dfs(len,0,1,1);
     }
-
+    // 从高位往低位处理
     int dfs(int pos,int sm,bool lead /*前导零*/,bool limit /*数位上界变量*/)
     {
         if (pos == 0)
@@ -45,7 +46,7 @@ public:
         {
             return memo[pos][sm];
         }
-        int up = limit ? digit[pos] : 9; //根据limit判断枚举的上界up;
+        int up = limit ? digit[pos] : 9; //如果当前位的上一位是有限制的,比如54321,万位是5,当前位千位的范围只能是4~0,不能是9~0;
         int ret = 0;
         //开始计数
         for (int i = 0; i <= up; ++i) //枚举，然后把不同情况的个数加到ret就可以了
@@ -65,10 +66,12 @@ public:
 
 int main(int argc, char const *argv[])
 {
-    int n  = 20;
+    int n  = -13;
 
     Solution  solution;
 
     cout << solution.countDigitOne(n);
+
+    // cout << 99 / 10 << endl;
     return 0;
 }
