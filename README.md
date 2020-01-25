@@ -15,6 +15,7 @@
 ## [13机器人的运动范围](13_RobotMove/RobotMove.cpp)
 ## [14剪绳子](14_CuttingRope/CuttingRope.cpp)
 ## [15二进制中1的个数](15_NumberOf1InBinary/NumberOf1InBinary.cpp)
+## [16数值的整数次方](16_Power/Power.cpp)
 ## [18_01删除链表的结点](18_01_DeleteDuplicatedNode/DeleteNodeInList.cpp)
 ## [18_02删除链表中重复的结点](18_02_DeleteDuplicatedNode/DeleteDuplicatedNode.cpp)
 ## [23链表中环的入口节点](23_EntryNodeInListLoop/EntryNodeInListLoop.cpp)
