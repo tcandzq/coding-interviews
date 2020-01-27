@@ -20,7 +20,7 @@
                          比如 str = "aaaaaab" pattern = .*b。
         
         3.  str;
-            pattern + 2; 考虑 str = aaab  pattern = aaabb*。此时aaab就可以匹配了，那多了的 b* 也无所谓，因为 b* 可以是匹配0次 b，相当于b*可以直接去掉了。
+            pattern + 2; 考虑 str = aaab  pattern = aaabb*。此时aaab就可以匹配了，那多了的 b* 也无所谓，因为 b* 可以是匹配0次 b，相当于 b * 可以直接去掉了。
 
     如果当前字符没有匹配成功
 
