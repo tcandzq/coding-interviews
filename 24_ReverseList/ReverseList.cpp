@@ -31,7 +31,7 @@ ListNode* ReverseList(ListNode* pHead)
 {
     ListNode* pCur =  pHead;
 
-    ListNode* pPrev =  pHead;
+    ListNode* pPrev =  nullptr;
 
     ListNode* pNext =  pHead;
 

@@ -25,6 +25,7 @@
 ## [23链表中环的入口节点](23_EntryNodeInListLoop/EntryNodeInListLoop.cpp)
 ## [24反转链表](24_ReverseList/ReverseList.cpp)
 ## [25合并两个排序的链表](25_MergeSortedLists/MergeSortedLists.cpp)
+## [26树的子结构](26_SubstructureInTree/SubstructureInTree.cpp)
 ## [27二叉树的镜像](27_MirrorOfBinaryTree/MirrorOfBinaryTree.cpp)
 ## [32_03按之字形顺序打印二叉树](32_03_PrintTreesInZigzag/PrintTreesInZigzag.cpp)
 ## [41数据流中的中位数](41_StreamMedian/StreamMedian.cpp)
