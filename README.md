@@ -30,6 +30,7 @@
 ## [28对称的二叉树](28_SymmetricalBinaryTree/SymmetricalBinaryTree.cpp)
 ## [29顺时针打印矩阵](29_PrintMatrix/PrintMatrix.cpp)
 ## [30包含min函数的栈](30_MinInStack/MinInStack.cpp)
+## [31栈的压入、弹出序列](31_StackPushPopOrder/StackPushPopOrder.cpp)
 ## [32_03按之字形顺序打印二叉树](32_03_PrintTreesInZigzag/PrintTreesInZigzag.cpp)
 ## [41数据流中的中位数](41_StreamMedian/StreamMedian.cpp)
 ## [43从1到n整数中1出现的次数](41_StreamMedian/NumberOf1.cpp)
