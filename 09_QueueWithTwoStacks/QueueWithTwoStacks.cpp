@@ -34,7 +34,8 @@ template <typename T> CQueue<T>::CQueue(void)
 {
 
 }
-    template <typename T> CQueue<T>::~CQueue(void)
+
+template <typename T> CQueue<T>::~CQueue(void)
 {
 
 }
